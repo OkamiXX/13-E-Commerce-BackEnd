@@ -48,4 +48,4 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Links:📨
 [GitHub Repo](https://github.com/OkamiXX/13-E-Commerce-BackEnd)
 
-[Walkthrough Video]()
+[Walkthrough Video](https://drive.google.com/file/d/1s_JdvaWZawArxwQ_6Ld6kM4vZJ9B5tfr/view)
